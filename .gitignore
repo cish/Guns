@@ -5,6 +5,7 @@
 *.war
 *.ear
 /target/
+/class/
 
 # eclipse
 .settings/
